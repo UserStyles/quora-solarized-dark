@@ -1,0 +1,26 @@
+@-moz-document domain("quora.com") {
+	html,body,h1,h2,h3,h4,h5,h6,.box_feed,.box_feed div,p,.link.selected {
+		background: #073642 !important;
+		color: #93A1A1 !important;
+	}
+
+	span {
+		color: #93A1A1 !important;
+	}
+
+	a, a span {
+		color: #2aa198 !important;
+	}
+
+	a:visited, a:visited span {
+		color: #b58900 !important;
+	}
+
+	.header {
+		background: #002b36 !important;
+	}
+
+	.nav_item:hover {
+		background: #073642 !important;
+	}
+}
